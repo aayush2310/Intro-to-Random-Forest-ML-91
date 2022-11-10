@@ -1,0 +1,9 @@
+Random Forest can be applied to both regression and classification problems.
+Gives good results.
+Without touching any parameter of the random forest the best result is given by the random forest.
+An ensemble technique.
+
+Let we have a dataset having 1000 rows,and the base model being decision tree.Dataset is sampled and fed to the model with or without replacement.
+Row sampling / column sampling(feature sampling)=>with or without replacement / Combination
+
+Logic same as the bagging technique.
